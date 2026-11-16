@@ -55,7 +55,9 @@ def login(asset, error: str) -> str:
 
 def setup(asset, secret: str, error: str) -> str:
     uri = totp.provisioning_uri(secret, "Blog", "jasonwolf.de")
-    qr = segno.make(uri, error="m").svg_inline(scale=4, border=2, dark="#182337")
+    # omitsize: viewBox statt fester Breite und Höhe, sonst schneidet das CSS den Code ab, statt ihn zu skalieren.
+    # border=4 ist der Rand, den die QR-Norm für zuverlässiges Scannen verlangt.
+    qr = segno.make(uri, error="m").svg_inline(scale=1, border=4, dark="#182337", light="#ffffff", omitsize=True)
     return _gate(asset, "Zugang einrichten", "Einmalig: Benutzer anlegen und die Authenticator-App koppeln. Danach ist diese Seite gesperrt.",
                  f"""<label>Einrichtungscode<input name="setup" autocomplete="off" required autofocus>
       <small>Steht im Protokoll des Dienstes: <code>journalctl -u jwblog | grep Einrichtungscode</code></small></label>
