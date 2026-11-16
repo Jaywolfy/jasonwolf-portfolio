@@ -1,0 +1,29 @@
+[Unit]
+Description=Blog von jasonwolf.de
+After=network-online.target docker.service
+Wants=network-online.target
+
+[Service]
+Type=simple
+WorkingDirectory=/DATA/websites/jwblog/app
+# Lauscht nur an der Docker-Brücke. Von dort leitet der Webserver-Container weiter, aus dem Internet ist der Port nicht erreichbar.
+ExecStart=/DATA/websites/jwblog/.venv/bin/python -m jwblog --host 172.17.0.1 --port 5941 --allowed-host jasonwolf.de --data-dir /DATA/websites/jwblog/data --site-root /DATA/websites/jasonwolf
+Restart=on-failure
+RestartSec=3
+# Der Dienst braucht keine besonderen Rechte: eigener Benutzer, schreiben darf er nur in seinen Datenordner.
+User=astro
+Group=astro
+UMask=0077
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+PrivateDevices=true
+ProtectKernelTunables=true
+ProtectControlGroups=true
+RestrictSUIDSGID=true
+ReadWritePaths=/DATA/websites/jwblog/data
+Environment=PYTHONUNBUFFERED=1 LANG=C.UTF-8
+
+[Install]
+WantedBy=multi-user.target
