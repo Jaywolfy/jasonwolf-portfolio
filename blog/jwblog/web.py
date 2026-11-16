@@ -6,6 +6,7 @@ erlaubt sind nur Anfragen an die Hostnamen aus der Konfiguration.
 
 import hashlib
 import json
+import os
 import re
 import sqlite3
 import tempfile
@@ -37,9 +38,32 @@ class State:
         self.store = Store(config.data_dir / "blog.db")
         self.account = auth.AccountStore(config.data_dir / "account.json")
         self.lockout = auth.Lockout()
-        self.setup_code = None if self.account.exists() else auth.new_setup_code()
-        self.pending_totp = totp.new_secret()
+        self._setup_file = config.data_dir / "setup.json"
+        self.setup_code, self.pending_totp = self._load_setup()
         self._versions: dict[str, tuple[float, str]] = {}
+
+    def _load_setup(self) -> tuple[str | None, str]:
+        """Einrichtungscode und Schlüssel für die Authenticator-App bleiben über Neustarts gleich, bis das Konto steht.
+
+        Sonst würde ein Neustart des Dienstes (etwa beim Hochladen) einen schon gescannten QR-Code ungültig machen.
+        """
+        if self.account.exists():
+            self._setup_file.unlink(missing_ok=True)
+            return None, totp.new_secret()
+        try:
+            saved = json.loads(self._setup_file.read_text(encoding="utf-8"))
+            return saved["code"], saved["secret"]
+        except (OSError, ValueError, KeyError):
+            pass
+        code, secret = auth.new_setup_code(), totp.new_secret()
+        descriptor = os.open(self._setup_file, os.O_WRONLY | os.O_CREAT | os.O_TRUNC, 0o600)
+        with os.fdopen(descriptor, "w", encoding="utf-8") as handle:
+            json.dump({"code": code, "secret": secret}, handle)
+        return code, secret
+
+    def finish_setup(self) -> None:
+        self.setup_code = None
+        self._setup_file.unlink(missing_ok=True)
 
     def asset(self, url: str) -> str:
         """Hängt an die Adresse einer Datei einen Hash ihres Inhalts an, damit Browser sie lange behalten dürfen."""
@@ -245,7 +269,7 @@ async def setup_page(request: web.Request) -> web.Response:
                 error = "Der Code aus der Authenticator-App stimmt nicht."
             if not error:
                 state.account.create(user, password, state.pending_totp)
-                state.setup_code = None
+                state.finish_setup()
                 return _login_response(request)
     return _html(admin_pages.setup(state.asset, state.pending_totp, error))
 

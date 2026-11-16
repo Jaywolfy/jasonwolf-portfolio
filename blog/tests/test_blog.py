@@ -129,6 +129,11 @@ class WebTest(AioHTTPTestCase):
         preview = await (await self.client.post("/blog/admin/api/preview", json={"body_md": "## Hallo"}, headers=headers)).json()
         self.assertIn('<h2 id="hallo">', preview["html"])
 
+    async def test_setup_survives_a_restart(self):
+        again = create_app(Config(data_dir=Path(self.folder.name), dev=True))["state"]
+        self.assertEqual((again.setup_code, again.pending_totp), (self.state.setup_code, self.state.pending_totp))
+        again.store.close()
+
     async def test_foreign_host_is_refused(self):
         self.assertEqual((await self.client.get("/blog/", headers={"Host": "boese.example"})).status, 400)
 

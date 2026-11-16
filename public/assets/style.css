@@ -30,6 +30,9 @@ a:hover { color: var(--ink); }
 :focus-visible { outline: 2px solid var(--gold); outline-offset: 3px; border-radius: 2px; }
 ::selection { background: rgba(151, 116, 47, 0.2); }
 [hidden] { display: none !important; }
+/* The footer sits at the bottom of the window even when a page has little content */
+body { min-height: 100vh; min-height: 100dvh; display: flex; flex-direction: column; }
+main { flex: 1 0 auto; width: 100%; }
 
 .wrap { max-width: 1180px; margin-inline: auto; padding-inline: var(--gutter); }
 .mono { font-family: var(--mono); font-size: 0.8125rem; letter-spacing: 0.02em; }
@@ -244,7 +247,6 @@ h1 { font-family: var(--serif); font-weight: 500; font-size: clamp(2.2rem, 4.6vw
 .legal p.kicker { color: var(--gold); font-size: 0.95rem; line-height: 1.65; }
 .legal .note { margin-top: 24px; background: var(--card); border: 1px solid var(--line); border-radius: 4px; padding: 14px 18px; font-size: 0.93rem; color: var(--ink-3); }
 .legal .updated { margin-top: 56px; padding-top: 22px; border-top: 1px solid var(--line); font-size: 0.86rem; color: var(--ink-3); }
-.notfound { min-height: 62vh; }
 .notfound p:not(.kicker) { margin-top: 18px; color: var(--ink-2); font-size: 1.1rem; max-width: 52ch; }
 .notfound p[lang="en"] { color: var(--ink-3); font-size: 1rem; }
 
