@@ -1,0 +1,1312 @@
+{
+  "de": {
+    "t": {
+      "skip": "Zum Inhalt springen",
+      "navServices": "Leistungen",
+      "navAbout": "Profil",
+      "navProjects": "Projekte",
+      "navExperience": "Werdegang",
+      "navCerts": "Qualifikationen",
+      "navFaq": "FAQ",
+      "navContact": "Kontakt",
+      "menuAria": "Menü öffnen oder schließen",
+      "heroKicker": "IT · CYBERSECURITY · FINANCE — FRANKFURT AM MAIN",
+      "heroTitleA": "Technologie, die trägt. Analyse, die",
+      "heroTitleEm": "überzeugt.",
+      "heroLead": "Werkstudent im IT Touchpoint der Deutsche Börse Group und Informatikstudent an der TU Darmstadt. Ich verbinde mehr als drei Jahre Praxis im IT-Support mit fundiertem Wissen in Informationssicherheit und Finanzanalyse: verlässlich, strukturiert und mit einem Anspruch an Qualität, der sich an den Besten orientiert.",
+      "ctaContact": "Gespräch vereinbaren",
+      "ctaServices": "Leistungen ansehen",
+      "ctaCv": "Lebenslauf (PDF) ↓",
+      "cvHref": "downloads/Lebenslauf-Jason-Thomas-Wolf.pdf",
+      "cvFile": "Lebenslauf Jason Thomas Wolf.pdf",
+      "stat1v": "3+ Jahre",
+      "stat1l": "Berufserfahrung in der IT",
+      "stat2v": "15 Zertifikate",
+      "stat2l": "Cisco · Forage · Common Purpose",
+      "stat3l": "B.Sc. Informatik seit WS 2026/27",
+      "sec01": "01 — LEISTUNGEN",
+      "sec02": "02 — PROFIL",
+      "sec03": "03 — PROJEKTE",
+      "sec04": "04 — WERDEGANG",
+      "sec05": "05 — QUALIFIKATIONEN",
+      "sec06": "06 — FAQ",
+      "sec07": "07 — KONTAKT",
+      "servicesTitleA": "Drei Disziplinen.",
+      "servicesTitleB": "Ein Ansprechpartner.",
+      "servicesLead": "Wo IT-Betrieb, Sicherheit und Zahlen zusammenlaufen, entsteht der größte Hebel. Genau dort setze ich an.",
+      "aboutTitle": "Präzision aus der Praxis.",
+      "aboutP1": "Seit November 2026 bin ich als Werkstudent im Bereich IT Touchpoint der Deutsche Börse Group tätig, dem persönlichen Ansprechpartner der Mitarbeitenden für ihren digitalen Arbeitsplatz. Im Mittelpunkt steht ein nutzerzentrierter Service nach dem Leitbild „der Mensch vor der Technik“. Ich trage dazu bei, dass Technologie im Arbeitsalltag reibungslos funktioniert, begleite das Lifecycle-Management mobiler Endgeräte innerhalb eines konzernweit standardisierten, sicherheitskonformen Device Managements und wirke an der Planung und Umsetzung von Hardware-Rollouts mit. Dabei erlebe ich aus erster Hand, wie IT-Services in einem global agierenden Finanzmarktinfrastruktur-Unternehmen gesteuert werden.",
+      "aboutP2": "Mein Fundament stammt aus mehr als dreieinhalb Jahren bei PCDOKTOR.de in Frankfurt, wo ich neben der Schule im Minijob gearbeitet habe, zuletzt als Level-3-IT-Support-Engineer und damit als Eskalationsstufe für Fälle, die First- und Second-Level-Support nicht lösen konnten: Fehler ohne reproduzierbare Ursache, Systeme, die nach Standardmaßnahmen weiter ausfallen, und Datenverluste, bei denen es keinen zweiten Versuch gibt. Dazu gehörten Datenrettung auf beschädigten Speichermedien, die Administration von Windows- und Linux-Systemen, Backup-Konzepte mit echten Restore-Tests sowie die Entfernung von Schadsoftware samt Ursachenanalyse und Systemhärtung.",
+      "aboutP3": "Sicherheit ist der Teil, der mich am meisten interessiert: 2025 habe ich Ciscos Junior-Cybersecurity-Analyst-Zertifizierungspfad sowie Cyber Threat Management, Networking Basics und Digital Safety and Security Awareness abgeschlossen. In meinem eigenen Homelab baue ich Netzwerk- und Security-Projekte nach, damit das Gelernte auf echter Hardware getestet wird. 2026 habe ich an der Hochtaunusschule Oberursel die Fachhochschulreife mit Schwerpunkt Informationstechnik erworben, seit Oktober 2026 studiere ich Informatik an der TU Darmstadt. Mein Verständnis für Finanzmärkte habe ich durch Job-Simulationen von J.P. Morgan und Goldman Sachs geschärft: von M&A-Analyse über Unternehmensbewertung bis Financial Modeling.",
+      "portraitAlt": "Portrait von Jason Thomas Wolf – IT Support & Cybersecurity, Frankfurt am Main",
+      "projectsTitle": "Ausgewählte Arbeiten.",
+      "projectsLead": "Eigene Projekte aus IT-Betrieb, Sicherheit und Softwareentwicklung. Der Quellcode ist öffentlich auf GitHub einsehbar.",
+      "projectLink": "Auf GitHub ansehen ↗",
+      "projectLinkAria": "auf GitHub ansehen (öffnet in neuem Tab)",
+      "expTitle": "Erfahrung & Bildung",
+      "certsTitle": "15 Nachweise, sechs Bereiche.",
+      "certsLead": "Zertifikate von Cisco, J.P. Morgan, Goldman Sachs, Commonwealth Bank, Datacom und Common Purpose. Cisco-Zertifikate sind über Credly verifizierbar; Job-Simulationen (Forage) sind transparent als solche gekennzeichnet.",
+      "verify": "Verifizieren ↗",
+      "verifyAria": "auf Credly verifizieren (öffnet in neuem Tab)",
+      "faqTitle": "Häufige Fragen.",
+      "faqLead": "Die wichtigsten Antworten auf einen Blick. Für alles andere freue ich mich über eine Nachricht.",
+      "contactTitle": "Lassen Sie uns sprechen.",
+      "contactLead": "Ob IT-Projekt, Frage zur Informationssicherheit oder berufliche Vernetzung: Ich antworte in der Regel innerhalb von 24 Stunden.",
+      "lblEmail": "E-MAIL",
+      "lblPhone": "TELEFON",
+      "lblCv": "LEBENSLAUF",
+      "lblCvValue": "PDF herunterladen ↓",
+      "formAria": "Kontaktformular",
+      "formName": "Name *",
+      "formEmail": "E-Mail-Adresse *",
+      "formMessage": "Nachricht *",
+      "formPrivacy": "Ich stimme zu, dass meine Angaben zur Kontaktaufnahme verarbeitet werden. Details in der",
+      "formPrivacyLink": "Datenschutzerklärung",
+      "formSubmit": "Nachricht senden",
+      "footerRights": "© 2026 Jason Thomas Wolf. Alle Rechte vorbehalten.",
+      "footerImprint": "Impressum",
+      "footerPrivacy": "Datenschutz",
+      "footerCookies": "Cookie-Einstellungen",
+      "filterAll": "Alle",
+      "kindEdu": "Bildung",
+      "kindWork": "Beruf",
+      "kindProject": "Programm",
+      "cookieAria": "Cookie-Einwilligung",
+      "cookieText": "Diese Website verwendet Google Analytics, um die Nutzung anonymisiert auszuwerten und die Seite zu verbessern. Das Tracking wird erst nach Ihrer Zustimmung aktiviert. Mehr dazu in der",
+      "cookieLink": "Datenschutzerklärung",
+      "cookieAccept": "Akzeptieren",
+      "cookieDecline": "Ablehnen"
+    },
+    "services": [
+      {
+        "num": "I.",
+        "title": "IT-Betrieb & Infrastruktur",
+        "desc": "Diagnose und Behebung komplexer Hard- und Softwareprobleme mit der Erfahrung aus dem Level-3-Support, Einrichtung und Betreuung von Endgeräten, Datenrettung auf beschädigten Speichermedien, Backup-Konzepte mit echten Restore-Tests sowie Server-, Netzwerk- und VoIP-Administration unter Windows und Linux.",
+        "items": [
+          "Endgeräte-Support & Systemadministration Windows / Linux",
+          "Datenrettung, Backup-Konzepte & Restore-Tests",
+          "Prozessautomatisierung (Python, Bash) & PostgreSQL"
+        ]
+      },
+      {
+        "num": "II.",
+        "title": "Cybersecurity & Compliance",
+        "desc": "Sicherheitsbewusstsein, das in jedem IT-Einsatz mitgedacht wird: Schadsoftware-Entfernung inklusive Ursachenanalyse und Härtung, Sicherheitswissen zu ISO 27001 und NIST aus dem Cisco-Zertifizierungspfad sowie eigene Netzwerk- und Security-Projekte im Homelab.",
+        "items": [
+          "Schadsoftware-Entfernung & System-Härtung",
+          "ISO 27001 & NIST Framework (Cisco-Zertifikate)",
+          "Homelab-Projekte: Netzwerk & Security"
+        ]
+      },
+      {
+        "num": "III.",
+        "title": "Finance & Datenanalyse",
+        "desc": "Strukturierte Auswertung von Geschäfts- und Finanzdaten mit Excel und Power BI, fundiert durch Job-Simulationen von J.P. Morgan und Goldman Sachs (Forage).",
+        "items": [
+          "Excel-Modelle & Datenauswertung",
+          "Grundlagen Financial Modeling & Valuation",
+          "Risk & Compliance-Perspektive"
+        ]
+      }
+    ],
+    "principles": [
+      {
+        "title": "Analytisches Denken",
+        "desc": "Komplexe Probleme systematisch zerlegen: von der Root-Cause-Analyse bis zur Bewertung von Kennzahlen."
+      },
+      {
+        "title": "Security-First",
+        "desc": "Sicherheit als Grundprinzip, nicht als Nachgedanke: von Firewalls bis zu ISO-27001-Richtlinien."
+      },
+      {
+        "title": "Automatisierung",
+        "desc": "Wiederkehrende Aufgaben automatisiere ich mit Python und Bash: weniger Fehler, mehr Verlässlichkeit."
+      },
+      {
+        "title": "Nutzerorientierung",
+        "desc": "Technik muss für die Menschen funktionieren, die damit arbeiten: verständlich erklärt, schnell gelöst und sauber dokumentiert."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Python von 0 auf 100",
+        "url": "https://github.com/Jaywolfy/python-von-0-auf-100",
+        "tags": [
+          "Python",
+          "Lernkurs",
+          "Automatisierung"
+        ],
+        "desc": "Strukturierter Python-Lernpfad für Einsteiger: 26 Wochen, 27 Module und 6 Praxisprojekte nach dem Prinzip Learning-by-Doing — vom ersten Skript bis zum eigenen Automatisierungs-Tool.",
+        "linkAria": "Python von 0 auf 100 auf GitHub ansehen (öffnet in neuem Tab)"
+      },
+      {
+        "title": "HardwareTracker",
+        "url": "https://github.com/Jaywolfy/HardwareTracker",
+        "tags": [
+          "Java",
+          "GUI",
+          "Hardware"
+        ],
+        "desc": "Java-Programm, das Systeminformationen wie Seriennummer, CPU, GPU, RAM und Festplattendetails ausliest, in einer GUI anzeigt und zur Dokumentation in einer Datei speichert.",
+        "linkAria": "HardwareTracker auf GitHub ansehen (öffnet in neuem Tab)"
+      },
+      {
+        "title": "PassGuard",
+        "url": "https://github.com/Jaywolfy/PassGuard",
+        "tags": [
+          "Python",
+          "Cybersecurity",
+          "CLI"
+        ],
+        "desc": "Passwort-Stärke-Auditor und Data-Breach-Checker als Python-CLI: bewertet Passwörter und prüft sie auf bekannte Datenlecks.",
+        "linkAria": "PassGuard auf GitHub ansehen (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Türschranken-System",
+        "url": "https://github.com/Jaywolfy/rfid-door-access-arduino",
+        "tags": [
+          "Arduino",
+          "Embedded"
+        ],
+        "desc": "Schulprojekt: Türschranken-Steuerung auf Basis eines Arduino Uno, von der Schaltung bis zur Programmierung der Steuerungslogik.",
+        "linkAria": "Türschranken-System auf GitHub ansehen (öffnet in neuem Tab)"
+      }
+    ],
+    "timeline": [
+      {
+        "badgeColor": "#97742f",
+        "badgeBorder": "rgba(151,116,47,0.4)",
+        "date": "seit 11/2026",
+        "kind": "Beruf",
+        "title": "Werkstudent IT Touchpoint",
+        "org": "Deutsche Börse Group, Frankfurt am Main",
+        "points": [
+          "Nutzerzentrierter IT-Service für die Mitarbeitenden: Analyse und nachhaltige Lösung technischer Anliegen im direkten Austausch",
+          "Lifecycle-Management von Laptops und Smartphones, von der Bereitstellung bis zum Austausch, im Rahmen eines konzernweit standardisierten, sicherheitskonformen Device Managements",
+          "Mitwirkung an Planung und Koordination von Hardware-Rollouts und Austauschzyklen",
+          "Mitverantwortung für eine hohe Nutzerzufriedenheit am digitalen Arbeitsplatz"
+        ]
+      },
+      {
+        "badgeColor": "#3f5a8a",
+        "badgeBorder": "rgba(63,90,138,0.35)",
+        "date": "seit 10/2026",
+        "kind": "Bildung",
+        "title": "B.Sc. Informatik",
+        "org": "Technische Universität Darmstadt",
+        "points": [
+          "180 Leistungspunkte in sechs Fachsemestern, breite Grundlagen aus Informatik und Mathematik",
+          "Teamprojekt Softwareentwicklung und Wahlbereiche von Cybersecurity bis Künstliche Intelligenz"
+        ]
+      },
+      {
+        "badgeColor": "#3f5a8a",
+        "badgeBorder": "rgba(63,90,138,0.35)",
+        "date": "08/2024 — 06/2026",
+        "kind": "Bildung",
+        "title": "Fachoberschule — Schwerpunkt Informationstechnik",
+        "org": "Hochtaunusschule, Oberursel",
+        "points": [
+          "Abschluss: Fachhochschulreife",
+          "Programmieren in Java, Datenbankentwicklung, Betriebssysteme",
+          "Projekte in Robotik sowie allgemeinbildender Unterricht"
+        ]
+      },
+      {
+        "badgeColor": "#97742f",
+        "badgeBorder": "rgba(151,116,47,0.4)",
+        "date": "03/2023 — 10/2026",
+        "kind": "Beruf",
+        "title": "Level 3 IT-Support-Engineer (Minijob)",
+        "org": "PCDOKTOR.de, Frankfurt am Main",
+        "points": [
+          "Letzte Eskalationsstufe für Fälle, die First- und Second-Level-Support nicht lösen konnten",
+          "Datenrettung und Disaster Recovery auf beschädigten Speichermedien inklusive vollständiger Dokumentation",
+          "Backup-Konzepte und regelmäßige Restore-Tests, Entfernung von Schadsoftware mit Ursachenanalyse und Systemhärtung",
+          "Garantie- und RMA-Abwicklung als TERRA Service Partner, Automatisierung mit Python/Bash und PostgreSQL-Optimierung"
+        ]
+      },
+      {
+        "badgeColor": "#97742f",
+        "badgeBorder": "rgba(151,116,47,0.4)",
+        "date": "02/2023 — 03/2023",
+        "kind": "Beruf",
+        "title": "Level 1 IT-Support (Praktikum)",
+        "org": "PCDOKTOR.de, Frankfurt am Main",
+        "points": [
+          "Erster Ansprechpartner für Endkunden per Telefon, E-Mail und Ticketsystem",
+          "Diagnose und Lösung grundlegender Hardware-, Software- und Verbindungsprobleme, Eskalation komplexer Fälle an Level 2/3"
+        ]
+      },
+      {
+        "badgeColor": "#3f5a8a",
+        "badgeBorder": "rgba(63,90,138,0.35)",
+        "date": "08/2018 — 06/2024",
+        "kind": "Bildung",
+        "title": "Qualifizierender Realschulabschluss",
+        "org": "Brüder-Grimm-Schule, Frankfurt am Main",
+        "points": [
+          "Notenschnitt: 1,7",
+          "Zentrale Abschlussprüfungen in Deutsch, Mathematik und Englisch sowie Präsentationsprüfung"
+        ]
+      },
+      {
+        "badgeColor": "#5c6575",
+        "badgeBorder": "rgba(92,101,117,0.35)",
+        "date": "12/2022 — 10/2023",
+        "kind": "Programm",
+        "title": "Common Purpose Leadership-Programme",
+        "org": "Your Turn & Europe 101",
+        "points": [
+          "Interkulturelle Führungsbildung in internationalen Teams",
+          "Cross-Boundary Leadership: Zusammenarbeit über Branchen-, Kultur- und Ländergrenzen hinweg"
+        ]
+      },
+      {
+        "badgeColor": "#97742f",
+        "badgeBorder": "rgba(151,116,47,0.4)",
+        "date": "04/2022 — 05/2022",
+        "kind": "Beruf",
+        "title": "System Integrator (Praktikum)",
+        "org": "Eickmann Computer, Frankfurt am Main",
+        "points": [
+          "Beratung, Verkauf und Reparatur von PCs und Laptops",
+          "Einrichtung von Netzwerken, WLAN und Internetanbindung sowie Vor-Ort- und Fernwartung"
+        ]
+      }
+    ],
+    "filters": [
+      {
+        "label": "Alle",
+        "active": true,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: #182337; border: 1px solid #182337; color: #f6f4ef; font-weight: 600;"
+      },
+      {
+        "label": "Cybersecurity",
+        "active": false,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: transparent; border: 1px solid rgba(24,35,55,0.2); color: #4a5468; font-weight: 500;"
+      },
+      {
+        "label": "Finance",
+        "active": false,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: transparent; border: 1px solid rgba(24,35,55,0.2); color: #4a5468; font-weight: 500;"
+      },
+      {
+        "label": "Networking",
+        "active": false,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: transparent; border: 1px solid rgba(24,35,55,0.2); color: #4a5468; font-weight: 500;"
+      },
+      {
+        "label": "Hardware",
+        "active": false,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: transparent; border: 1px solid rgba(24,35,55,0.2); color: #4a5468; font-weight: 500;"
+      },
+      {
+        "label": "Leadership",
+        "active": false,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: transparent; border: 1px solid rgba(24,35,55,0.2); color: #4a5468; font-weight: 500;"
+      },
+      {
+        "label": "Sustainability",
+        "active": false,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: transparent; border: 1px solid rgba(24,35,55,0.2); color: #4a5468; font-weight: 500;"
+      }
+    ],
+    "certs": [
+      {
+        "title": "Junior Cybersecurity Analyst Career Path",
+        "issuer": "Cisco",
+        "category": "Cybersecurity",
+        "date": "12/2025",
+        "url": "https://www.credly.com/badges/0d207013-cfb1-4f28-a942-a2a2ce61123f/public_url",
+        "desc": "Sicherheitskontrollen zur Netzwerk- und Informationssicherheit, Schadensbegrenzung bei Cyberbedrohungen.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Junior Cybersecurity Analyst Career Path auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Cyber Threat Management",
+        "issuer": "Cisco",
+        "category": "Cybersecurity",
+        "date": "12/2025",
+        "url": "https://www.credly.com/badges/999f3d83-5d7a-46da-9d2d-9d3b77bb2f6e/public_url",
+        "desc": "Compliance-Frameworks (ISO 27001, NIST), Schwachstellenanalysen, Risikomanagement, Incident Response.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Cyber Threat Management auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Networking Basics",
+        "issuer": "Cisco",
+        "category": "Networking",
+        "date": "12/2025",
+        "url": "https://www.credly.com/badges/4b9d51cf-beb8-4c09-bc58-6d5001defff6/public_url",
+        "desc": "Netzwerkprotokolle, Ethernet, IP-Adressierung (IPv4/IPv6), Router-Konfiguration, Fehlerbehebung.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Networking Basics auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Introduction to Cybersecurity",
+        "issuer": "Cisco",
+        "category": "Cybersecurity",
+        "date": "07/2025",
+        "url": "https://www.credly.com/badges/32b1ae5c-c093-498d-ad78-ba08a6720f88/public_url",
+        "desc": "Grundlagen der Online-Sicherheit, Erkennung von Bedrohungen und Schwachstellen, Schutz von Systemen.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Introduction to Cybersecurity auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Digital Safety and Security Awareness",
+        "issuer": "Cisco",
+        "category": "Cybersecurity",
+        "date": "07/2025",
+        "url": "https://www.credly.com/badges/1fc9bd92-88b8-4e8b-aba1-946cbb1163d8/public_url",
+        "desc": "Erkennen digitaler Bedrohungen, Datenschutzbestimmungen, Schutz von Geräten und Privatsphäre.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Digital Safety and Security Awareness auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Computer Hardware Basics",
+        "issuer": "Cisco",
+        "category": "Hardware",
+        "date": "07/2025",
+        "url": "https://www.credly.com/badges/17663e3f-5663-4c48-b5a9-5ab09c589aca/public_url",
+        "desc": "Installation, Reparatur und Upgrade von PC-Komponenten, Wartung von Laptops und Mobilgeräten.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Computer Hardware Basics auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Greenhouse Gas Accounting for IT",
+        "issuer": "Cisco",
+        "category": "Sustainability",
+        "date": "07/2025",
+        "url": "https://www.credly.com/badges/1bdd7be6-e2a9-4201-bc65-9f0e426e7d61/public_url",
+        "desc": "GHG-Protokolle, Berechnung von Scope-1- und Scope-2-Emissionen, Reduktionsstrategien.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Greenhouse Gas Accounting for IT auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Engaging Stakeholders for Success",
+        "issuer": "Cisco",
+        "category": "Leadership",
+        "date": "11/2025",
+        "url": "https://www.credly.com/badges/74554a18-f616-467c-8068-bd39eaefb453/public_url",
+        "desc": "Stakeholder-Analyse, Vertrauensaufbau, Power-Interest-Grid, Interviewtechniken.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Engaging Stakeholders for Success auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Introduction to Cybersecurity Job Simulation",
+        "issuer": "Commonwealth Bank · Forage",
+        "category": "Cybersecurity",
+        "date": "09/2026",
+        "url": "https://www.theforage.com/completion-certificates/2sNmYuurxgpFYawco/x52Jy9s26xNbZkTQ7_2sNmYuurxgpFYawco_69846cbe8846afd539aaa94d_1789150350787_completion_certificate.pdf",
+        "desc": "Fraud Detection mit Splunk-Dashboards, Incident Response, Security Awareness und Penetrationstests von Web-Anwendungen.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Introduction to Cybersecurity Job Simulation auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Cyber Security Operations Job Simulation",
+        "issuer": "Datacom · Forage",
+        "category": "Cybersecurity",
+        "date": "09/2026",
+        "url": "https://www.theforage.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_69846cbe8846afd539aaa94d_1789150529764_completion_certificate.pdf",
+        "desc": "Untersuchung eines Cyberangriffs mit Bericht und Handlungsempfehlungen, umfassende Risikobewertung.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Cyber Security Operations Job Simulation auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Investment Banking Job Simulation",
+        "issuer": "J.P. Morgan · Forage",
+        "category": "Finance",
+        "date": "02/2026",
+        "url": "https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_69846cbe8846afd539aaa94d_1770555158629_completion_certificate.pdf",
+        "desc": "M&A-Target-Identifikation, DCF-Bewertung inklusive Konkurrenzgebot und Lieferkettenstörung, Client-Zweiseiter.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Investment Banking Job Simulation auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Internal Audit Job Simulation",
+        "issuer": "Goldman Sachs · Forage",
+        "category": "Finance",
+        "date": "02/2026",
+        "url": "https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/dC4ChhAkhpgB7QvGd_MBA4MnZTNFEoJZGnk_69846cbe8846afd539aaa94d_1771449245592_completion_certificate.pdf",
+        "desc": "Interne Revision: Audits und Risikobewertungen in Global Banking & Markets, Empfehlungen zu Kontrollverbesserungen und Compliance.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Internal Audit Job Simulation auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Operations Job Simulation",
+        "issuer": "Goldman Sachs · Forage",
+        "category": "Finance",
+        "date": "02/2026",
+        "url": "https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_69846cbe8846afd539aaa94d_1770818482363_completion_certificate.pdf",
+        "desc": "Analyse von Finanzdaten zu Abwicklungsproblemen und Asset-Transfers für High-Net-Worth-Kunden, Abstimmung mit Trading, Compliance und IT.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Operations Job Simulation auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Controllers Job Simulation",
+        "issuer": "Goldman Sachs · Forage",
+        "category": "Finance",
+        "date": "02/2026",
+        "url": "https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/vjFao7z4tXKe2EwvK_MBA4MnZTNFEoJZGnk_69846cbe8846afd539aaa94d_1770622865998_completion_certificate.pdf",
+        "desc": "Berechnung des Net Asset Value (NAV) und Unitizing, Excel-gestützte Analyse, Datenvalidierung und Abstimmung der Finanzberichterstattung.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Controllers Job Simulation auf Credly verifizieren (öffnet in neuem Tab)"
+      },
+      {
+        "title": "Europe101 Leadership Program",
+        "issuer": "Common Purpose",
+        "category": "Leadership",
+        "date": "10/2023",
+        "url": null,
+        "desc": "Interkulturelle Führungskompetenz, gesellschaftliche Verantwortung, länderübergreifende Teamarbeit.",
+        "linkLabel": "Verifizieren ↗",
+        "linkAria": "Europe101 Leadership Program auf Credly verifizieren (öffnet in neuem Tab)"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Wer ist Jason Thomas Wolf?",
+        "a": "Jason Thomas Wolf ist Werkstudent im IT-Touchpoint-Team der Deutsche Börse Group in Frankfurt am Main und studiert seit dem Wintersemester 2026/27 Informatik (B.Sc.) an der TU Darmstadt. Zuvor war er von März 2023 bis Oktober 2026 bei PCDOKTOR.de tätig, zuletzt als Level-3-IT-Support-Engineer."
+      },
+      {
+        "q": "Was macht Jason Wolf bei der Deutsche Börse Group?",
+        "a": "Als Werkstudent im Bereich IT Touchpoint ist er Teil des Teams, das den Mitarbeitenden der Deutsche Börse Group als persönlicher Ansprechpartner für ihren digitalen Arbeitsplatz zur Seite steht. Er trägt zu einem nutzerzentrierten IT-Service bei, begleitet das Lifecycle-Management von Laptops und Smartphones innerhalb eines konzernweit standardisierten, sicherheitskonformen Device Managements und wirkt an der Planung und Umsetzung von Hardware-Rollouts mit."
+      },
+      {
+        "q": "Welche Berufserfahrung bringt Jason Wolf mit?",
+        "a": "Mehr als dreieinhalb Jahre Praxis im IT-Support. Bei PCDOKTOR.de war er als Level-3-Support-Engineer die Eskalationsstufe für komplexe Fälle: Datenrettung, Backup- und Restore-Konzepte, Windows- und Linux-Administration sowie Malware-Entfernung mit Systemhärtung. Davor arbeitete er im Level-1-Support bei PCDOKTOR.de und absolvierte ein Praktikum in der Systemintegration bei Eickmann Computer."
+      },
+      {
+        "q": "Welche Zertifikate hat Jason Thomas Wolf?",
+        "a": "15 Zertifikate, darunter der Cisco Junior Cybersecurity Analyst Career Path, Cyber Threat Management, Networking Basics und Computer Hardware Basics sowie Job-Simulationen (Forage) von J.P. Morgan, Goldman Sachs, Commonwealth Bank und Datacom und das Europe101 Leadership Program von Common Purpose."
+      },
+      {
+        "q": "Welche technischen Kompetenzen hat Jason Wolf?",
+        "a": "Nutzerzentrierter IT-Service und Device Management, Linux- und Windows-Administration, Datenrettung und Backup-Konzepte, Automatisierung mit Python und Bash, PostgreSQL/SQL, Netzwerksicherheit auf Basis von ISO 27001 und NIST sowie Datenanalyse mit Excel und Power BI."
+      },
+      {
+        "q": "Wie erreicht man Jason Wolf?",
+        "a": "Per E-Mail an jason@jasonwolf.de, telefonisch unter +49 152 51530075, auf LinkedIn (linkedin.com/in/jason--wolf) oder GitHub (github.com/Jaywolfy)."
+      }
+    ],
+    "showCookieBanner": false,
+    "isDe": true,
+    "isEn": false,
+    "langBtnDe": "font-family: 'JetBrains Mono', monospace; font-size: 12px; cursor: pointer; padding: 6px 10px; border-radius: 2px; border: none; transition: all 0.2s; letter-spacing: 0.05em; background: #182337; color: #f6f4ef; font-weight: 600;",
+    "langBtnEn": "font-family: 'JetBrains Mono', monospace; font-size: 12px; cursor: pointer; padding: 6px 10px; border-radius: 2px; border: none; transition: all 0.2s; letter-spacing: 0.05em; background: transparent; color: #6b7488; font-weight: 500;",
+    "isDesktopNav": true,
+    "isMobileNav": false,
+    "mobileMenuVisible": false,
+    "menuOpen": false,
+    "menuIcon": "☰",
+    "showPhone": true,
+    "showProgress": true,
+    "showGrid": true
+  },
+  "en": {
+    "t": {
+      "skip": "Skip to content",
+      "navServices": "Services",
+      "navAbout": "Profile",
+      "navProjects": "Projects",
+      "navExperience": "Experience",
+      "navCerts": "Credentials",
+      "navFaq": "FAQ",
+      "navContact": "Contact",
+      "menuAria": "Open or close menu",
+      "heroKicker": "IT · CYBERSECURITY · FINANCE — FRANKFURT, GERMANY",
+      "heroTitleA": "Technology that holds. Analysis that",
+      "heroTitleEm": "convinces.",
+      "heroLead": "Working student in IT Touchpoint at Deutsche Börse Group and Computer Science student at TU Darmstadt. I combine more than three years of hands-on IT support with solid knowledge of information security and financial analysis: reliable, structured, and with a standard of quality benchmarked against the best.",
+      "ctaContact": "Schedule a conversation",
+      "ctaServices": "View services",
+      "ctaCv": "Résumé (PDF) ↓",
+      "cvHref": "downloads/Resume-Jason-Thomas-Wolf.pdf",
+      "cvFile": "Resume Jason Thomas Wolf.pdf",
+      "stat1v": "3+ years",
+      "stat1l": "Professional IT experience",
+      "stat2v": "15 certificates",
+      "stat2l": "Cisco · Forage · Common Purpose",
+      "stat3l": "B.Sc. Computer Science since winter term 2026/27",
+      "sec01": "01 — SERVICES",
+      "sec02": "02 — PROFILE",
+      "sec03": "03 — PROJECTS",
+      "sec04": "04 — EXPERIENCE",
+      "sec05": "05 — CREDENTIALS",
+      "sec06": "06 — FAQ",
+      "sec07": "07 — CONTACT",
+      "servicesTitleA": "Three disciplines.",
+      "servicesTitleB": "One point of contact.",
+      "servicesLead": "Where IT operations, security and numbers converge is where the greatest leverage lies, and exactly where I come in.",
+      "aboutTitle": "Precision from practice.",
+      "aboutP1": "Since November 2026 I have been a working student in IT Touchpoint at Deutsche Börse Group, the personal point of contact for employees on everything related to their digital workplace. The focus is a user-centric service guided by the principle of putting people before technology. I help ensure that technology works seamlessly in everyday business, support the lifecycle management of mobile devices within a group-wide standardized, security-compliant device management framework, and contribute to planning and executing hardware rollouts. This gives me first-hand insight into how IT services are managed at a global financial market infrastructure provider.",
+      "aboutP2": "My foundation comes from more than three and a half years at PCDOKTOR.de in Frankfurt, where I worked part-time (mini-job) alongside school, most recently as a Level 3 IT Support Engineer, the escalation level for cases first- and second-level support could not close: faults with no reproducible cause, systems that keep failing after standard remediation, and data loss where there is no second attempt. That included data recovery on damaged storage media, administering Windows and Linux systems, backup concepts with real restore tests, and removing malware together with root-cause analysis and system hardening.",
+      "aboutP3": "Security is the part that interests me most: in 2025 I completed Cisco's Junior Cybersecurity Analyst Career Path along with Cyber Threat Management, Networking Basics and Digital Safety and Security Awareness. In my own homelab I rebuild networking and security projects so what I've learned gets tested on real hardware. In 2026 I earned my Fachhochschulreife (advanced technical college entrance qualification) with a focus on information technology at Hochtaunusschule Oberursel, and since October 2026 I have been studying Computer Science at TU Darmstadt. I sharpened my understanding of financial markets through job simulations by J.P. Morgan and Goldman Sachs: from M&A analysis and company valuation to financial modeling.",
+      "portraitAlt": "Portrait of Jason Thomas Wolf – IT Support & Cybersecurity, Frankfurt, Germany",
+      "projectsTitle": "Selected work.",
+      "projectsLead": "Personal projects from IT operations, security and software development. The source code is publicly available on GitHub.",
+      "projectLink": "View on GitHub ↗",
+      "projectLinkAria": "view on GitHub (opens in a new tab)",
+      "expTitle": "Experience & education",
+      "certsTitle": "15 credentials, six fields.",
+      "certsLead": "Certificates from Cisco, J.P. Morgan, Goldman Sachs, Commonwealth Bank, Datacom and Common Purpose. Cisco certificates can be verified via Credly; job simulations (Forage) are transparently labeled as such.",
+      "verify": "Verify ↗",
+      "verifyAria": "verify on Credly (opens in a new tab)",
+      "faqTitle": "Frequently asked questions.",
+      "faqLead": "The key answers at a glance. For everything else, I look forward to hearing from you.",
+      "contactTitle": "Let's talk.",
+      "contactLead": "Whether an IT project, a question about information security or professional networking: I usually reply within 24 hours.",
+      "lblEmail": "EMAIL",
+      "lblPhone": "PHONE",
+      "lblCv": "RÉSUMÉ",
+      "lblCvValue": "Download PDF ↓",
+      "formAria": "Contact form",
+      "formName": "Name *",
+      "formEmail": "Email address *",
+      "formMessage": "Message *",
+      "formPrivacy": "I agree that my details will be processed for the purpose of contacting me. Details in the",
+      "formPrivacyLink": "privacy policy (German)",
+      "formSubmit": "Send message",
+      "footerRights": "© 2026 Jason Thomas Wolf. All rights reserved.",
+      "footerImprint": "Legal notice",
+      "footerPrivacy": "Privacy policy",
+      "footerCookies": "Cookie settings",
+      "filterAll": "All",
+      "kindEdu": "Education",
+      "kindWork": "Work",
+      "kindProject": "Program",
+      "cookieAria": "Cookie consent",
+      "cookieText": "This website uses Google Analytics to evaluate usage anonymously and improve the site. Tracking is only activated after your consent. More in the",
+      "cookieLink": "privacy policy (German)",
+      "cookieAccept": "Accept",
+      "cookieDecline": "Decline"
+    },
+    "services": [
+      {
+        "num": "I.",
+        "title": "IT Operations & Infrastructure",
+        "desc": "Diagnosing and resolving complex hardware and software issues with the experience of Level 3 support, setting up and supporting end-user devices, data recovery on damaged storage media, backup concepts with real restore tests, and server, network and VoIP administration on Windows and Linux.",
+        "items": [
+          "Device support & system administration Windows / Linux",
+          "Data recovery, backup concepts & restore tests",
+          "Process automation (Python, Bash) & PostgreSQL"
+        ]
+      },
+      {
+        "num": "II.",
+        "title": "Cybersecurity & Compliance",
+        "desc": "Security awareness built into every IT engagement: malware removal with root-cause analysis and hardening, security knowledge based on ISO 27001 and NIST from the Cisco certification path, and personal networking and security projects in my homelab.",
+        "items": [
+          "Malware removal & system hardening",
+          "ISO 27001 & NIST Framework (Cisco certificates)",
+          "Homelab projects: networking & security"
+        ]
+      },
+      {
+        "num": "III.",
+        "title": "Finance & Data Analysis",
+        "desc": "Structured analysis of business and financial data with Excel and Power BI, grounded in job simulations by J.P. Morgan and Goldman Sachs (Forage).",
+        "items": [
+          "Excel models & data analysis",
+          "Foundations of financial modeling & valuation",
+          "Risk & compliance perspective"
+        ]
+      }
+    ],
+    "principles": [
+      {
+        "title": "Analytical thinking",
+        "desc": "Breaking complex problems down systematically: from root-cause analysis to evaluating key figures."
+      },
+      {
+        "title": "Security first",
+        "desc": "Security as a core principle, not an afterthought: from firewalls to ISO 27001 policies."
+      },
+      {
+        "title": "Automation",
+        "desc": "I automate recurring tasks with Python and Bash: fewer errors, more reliability."
+      },
+      {
+        "title": "User focus",
+        "desc": "Technology has to work for the people who use it: clearly explained, quickly resolved and properly documented."
+      }
+    ],
+    "projects": [
+      {
+        "title": "Python von 0 auf 100",
+        "url": "https://github.com/Jaywolfy/python-von-0-auf-100",
+        "tags": [
+          "Python",
+          "Course",
+          "Automation"
+        ],
+        "desc": "Structured Python learning path for beginners: 26 weeks, 27 modules and 6 hands-on projects following a learn-by-doing approach — from the first script to a self-built automation tool.",
+        "linkAria": "Python von 0 auf 100 view on GitHub (opens in a new tab)"
+      },
+      {
+        "title": "HardwareTracker",
+        "url": "https://github.com/Jaywolfy/HardwareTracker",
+        "tags": [
+          "Java",
+          "GUI",
+          "Hardware"
+        ],
+        "desc": "Java program that reads system information such as serial number, CPU, GPU, RAM and disk details, displays it in a GUI and saves it to a file for documentation.",
+        "linkAria": "HardwareTracker view on GitHub (opens in a new tab)"
+      },
+      {
+        "title": "PassGuard",
+        "url": "https://github.com/Jaywolfy/PassGuard",
+        "tags": [
+          "Python",
+          "Cybersecurity",
+          "CLI"
+        ],
+        "desc": "Password strength auditor and data breach checker as a Python CLI: rates passwords and checks them against known data breaches.",
+        "linkAria": "PassGuard view on GitHub (opens in a new tab)"
+      },
+      {
+        "title": "Door Barrier System",
+        "url": "https://github.com/Jaywolfy/rfid-door-access-arduino",
+        "tags": [
+          "Arduino",
+          "Embedded"
+        ],
+        "desc": "School project: door barrier control based on an Arduino Uno, from the circuit design to programming the control logic.",
+        "linkAria": "Door Barrier System view on GitHub (opens in a new tab)"
+      }
+    ],
+    "timeline": [
+      {
+        "badgeColor": "#97742f",
+        "badgeBorder": "rgba(151,116,47,0.4)",
+        "date": "since 11/2026",
+        "kind": "Work",
+        "title": "Working Student – IT Touchpoint",
+        "org": "Deutsche Börse Group, Frankfurt am Main",
+        "points": [
+          "User-centric IT service for employees: analyzing and sustainably resolving technical requests in direct dialogue",
+          "Lifecycle management of laptops and smartphones, from provisioning to replacement, within a group-wide standardized, security-compliant device management framework",
+          "Contributing to the planning and coordination of hardware rollouts and replacement cycles",
+          "Shared responsibility for high user satisfaction across the digital workplace"
+        ]
+      },
+      {
+        "badgeColor": "#3f5a8a",
+        "badgeBorder": "rgba(63,90,138,0.35)",
+        "date": "since 10/2026",
+        "kind": "Education",
+        "title": "B.Sc. Computer Science",
+        "org": "Technical University of Darmstadt",
+        "points": [
+          "180 credit points over six semesters, broad foundations in computer science and mathematics",
+          "Team software development project and elective areas from cybersecurity to artificial intelligence"
+        ]
+      },
+      {
+        "badgeColor": "#3f5a8a",
+        "badgeBorder": "rgba(63,90,138,0.35)",
+        "date": "08/2024 — 06/2026",
+        "kind": "Education",
+        "title": "Fachoberschule — Information Technology track",
+        "org": "Hochtaunusschule, Oberursel",
+        "points": [
+          "Qualification: Fachhochschulreife (advanced technical college entrance qualification)",
+          "Programming in Java, database development, operating systems",
+          "Robotics projects and general academic coursework"
+        ]
+      },
+      {
+        "badgeColor": "#97742f",
+        "badgeBorder": "rgba(151,116,47,0.4)",
+        "date": "03/2023 — 10/2026",
+        "kind": "Work",
+        "title": "Level 3 IT Support Engineer (Mini-job, part-time)",
+        "org": "PCDOKTOR.de, Frankfurt am Main",
+        "points": [
+          "Final escalation level for cases first- and second-level support could not close",
+          "Data recovery and disaster recovery on damaged storage media, including full documentation",
+          "Backup concepts and regular restore tests, malware removal with root-cause analysis and system hardening",
+          "Warranty and RMA handling as a TERRA Service Partner, automation with Python/Bash and PostgreSQL optimization"
+        ]
+      },
+      {
+        "badgeColor": "#97742f",
+        "badgeBorder": "rgba(151,116,47,0.4)",
+        "date": "02/2023 — 03/2023",
+        "kind": "Work",
+        "title": "Level 1 IT Support (Internship)",
+        "org": "PCDOKTOR.de, Frankfurt am Main",
+        "points": [
+          "First point of contact for end users via phone, email and ticketing system",
+          "Diagnosing and resolving basic hardware, software and connectivity issues, escalating complex cases to Level 2/3"
+        ]
+      },
+      {
+        "badgeColor": "#3f5a8a",
+        "badgeBorder": "rgba(63,90,138,0.35)",
+        "date": "08/2018 — 06/2024",
+        "kind": "Education",
+        "title": "Qualifying secondary school certificate (Realschulabschluss)",
+        "org": "Brüder-Grimm-Schule, Frankfurt am Main",
+        "points": [
+          "GPA: 1.7 (German scale, 1 = best)",
+          "Central final exams in German, mathematics and English plus a presentation exam"
+        ]
+      },
+      {
+        "badgeColor": "#5c6575",
+        "badgeBorder": "rgba(92,101,117,0.35)",
+        "date": "12/2022 — 10/2023",
+        "kind": "Program",
+        "title": "Common Purpose Leadership Programs",
+        "org": "Your Turn & Europe 101",
+        "points": [
+          "Intercultural leadership training in international teams",
+          "Cross-boundary leadership: collaborating across sectors, cultures and countries"
+        ]
+      },
+      {
+        "badgeColor": "#97742f",
+        "badgeBorder": "rgba(151,116,47,0.4)",
+        "date": "04/2022 — 05/2022",
+        "kind": "Work",
+        "title": "System Integrator (Internship)",
+        "org": "Eickmann Computer, Frankfurt am Main",
+        "points": [
+          "Consulting, sales and repair of PCs and laptops",
+          "Setting up networks, WLAN and internet connections, plus on-site and remote maintenance"
+        ]
+      }
+    ],
+    "filters": [
+      {
+        "label": "All",
+        "active": true,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: #182337; border: 1px solid #182337; color: #f6f4ef; font-weight: 600;"
+      },
+      {
+        "label": "Cybersecurity",
+        "active": false,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: transparent; border: 1px solid rgba(24,35,55,0.2); color: #4a5468; font-weight: 500;"
+      },
+      {
+        "label": "Finance",
+        "active": false,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: transparent; border: 1px solid rgba(24,35,55,0.2); color: #4a5468; font-weight: 500;"
+      },
+      {
+        "label": "Networking",
+        "active": false,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: transparent; border: 1px solid rgba(24,35,55,0.2); color: #4a5468; font-weight: 500;"
+      },
+      {
+        "label": "Hardware",
+        "active": false,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: transparent; border: 1px solid rgba(24,35,55,0.2); color: #4a5468; font-weight: 500;"
+      },
+      {
+        "label": "Leadership",
+        "active": false,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: transparent; border: 1px solid rgba(24,35,55,0.2); color: #4a5468; font-weight: 500;"
+      },
+      {
+        "label": "Sustainability",
+        "active": false,
+        "style": "font-family: 'Instrument Sans', sans-serif; font-size: 14px; cursor: pointer; padding: 10px 20px; min-height: 44px; border-radius: 3px; transition: all 0.2s; background: transparent; border: 1px solid rgba(24,35,55,0.2); color: #4a5468; font-weight: 500;"
+      }
+    ],
+    "certs": [
+      {
+        "title": "Junior Cybersecurity Analyst Career Path",
+        "issuer": "Cisco",
+        "category": "Cybersecurity",
+        "date": "12/2025",
+        "url": "https://www.credly.com/badges/0d207013-cfb1-4f28-a942-a2a2ce61123f/public_url",
+        "desc": "Security controls for network and information security, mitigation of cyber threats.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Junior Cybersecurity Analyst Career Path verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Cyber Threat Management",
+        "issuer": "Cisco",
+        "category": "Cybersecurity",
+        "date": "12/2025",
+        "url": "https://www.credly.com/badges/999f3d83-5d7a-46da-9d2d-9d3b77bb2f6e/public_url",
+        "desc": "Compliance frameworks (ISO 27001, NIST), vulnerability assessments, risk management, incident response.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Cyber Threat Management verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Networking Basics",
+        "issuer": "Cisco",
+        "category": "Networking",
+        "date": "12/2025",
+        "url": "https://www.credly.com/badges/4b9d51cf-beb8-4c09-bc58-6d5001defff6/public_url",
+        "desc": "Network protocols, Ethernet, IP addressing (IPv4/IPv6), router configuration, troubleshooting.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Networking Basics verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Introduction to Cybersecurity",
+        "issuer": "Cisco",
+        "category": "Cybersecurity",
+        "date": "07/2025",
+        "url": "https://www.credly.com/badges/32b1ae5c-c093-498d-ad78-ba08a6720f88/public_url",
+        "desc": "Fundamentals of online security, detecting threats and vulnerabilities, protecting systems and networks.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Introduction to Cybersecurity verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Digital Safety and Security Awareness",
+        "issuer": "Cisco",
+        "category": "Cybersecurity",
+        "date": "07/2025",
+        "url": "https://www.credly.com/badges/1fc9bd92-88b8-4e8b-aba1-946cbb1163d8/public_url",
+        "desc": "Recognizing digital threats, data protection regulations, safeguarding devices and privacy.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Digital Safety and Security Awareness verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Computer Hardware Basics",
+        "issuer": "Cisco",
+        "category": "Hardware",
+        "date": "07/2025",
+        "url": "https://www.credly.com/badges/17663e3f-5663-4c48-b5a9-5ab09c589aca/public_url",
+        "desc": "Installing, repairing and upgrading PC components, maintaining laptops and mobile devices.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Computer Hardware Basics verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Greenhouse Gas Accounting for IT",
+        "issuer": "Cisco",
+        "category": "Sustainability",
+        "date": "07/2025",
+        "url": "https://www.credly.com/badges/1bdd7be6-e2a9-4201-bc65-9f0e426e7d61/public_url",
+        "desc": "GHG protocols, calculating scope 1 and scope 2 emissions, reduction strategies.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Greenhouse Gas Accounting for IT verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Engaging Stakeholders for Success",
+        "issuer": "Cisco",
+        "category": "Leadership",
+        "date": "11/2025",
+        "url": "https://www.credly.com/badges/74554a18-f616-467c-8068-bd39eaefb453/public_url",
+        "desc": "Stakeholder analysis, building trust, power-interest grid, interview techniques.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Engaging Stakeholders for Success verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Introduction to Cybersecurity Job Simulation",
+        "issuer": "Commonwealth Bank · Forage",
+        "category": "Cybersecurity",
+        "date": "09/2026",
+        "url": "https://www.theforage.com/completion-certificates/2sNmYuurxgpFYawco/x52Jy9s26xNbZkTQ7_2sNmYuurxgpFYawco_69846cbe8846afd539aaa94d_1789150350787_completion_certificate.pdf",
+        "desc": "Fraud detection with Splunk dashboards, incident response, security awareness and penetration testing of web applications.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Introduction to Cybersecurity Job Simulation verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Cyber Security Operations Job Simulation",
+        "issuer": "Datacom · Forage",
+        "category": "Cybersecurity",
+        "date": "09/2026",
+        "url": "https://www.theforage.com/completion-certificates/gCW7Xki5Y3vNpBmnn/yTszJTvkHFBH6zAn3_gCW7Xki5Y3vNpBmnn_69846cbe8846afd539aaa94d_1789150529764_completion_certificate.pdf",
+        "desc": "Investigation of a cyberattack with a report and recommendations, comprehensive risk assessment.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Cyber Security Operations Job Simulation verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Investment Banking Job Simulation",
+        "issuer": "J.P. Morgan · Forage",
+        "category": "Finance",
+        "date": "02/2026",
+        "url": "https://www.theforage.com/completion-certificates/Sj7temL583QAYpHXD/YD2kY95RQxQtXxFTS_Sj7temL583QAYpHXD_69846cbe8846afd539aaa94d_1770555158629_completion_certificate.pdf",
+        "desc": "M&A target identification, DCF valuation including a competing bid and supply-chain disruption, client two-pager.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Investment Banking Job Simulation verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Internal Audit Job Simulation",
+        "issuer": "Goldman Sachs · Forage",
+        "category": "Finance",
+        "date": "02/2026",
+        "url": "https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/dC4ChhAkhpgB7QvGd_MBA4MnZTNFEoJZGnk_69846cbe8846afd539aaa94d_1771449245592_completion_certificate.pdf",
+        "desc": "Internal audit: audits and risk assessments in Global Banking & Markets, recommendations on control improvements and compliance.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Internal Audit Job Simulation verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Operations Job Simulation",
+        "issuer": "Goldman Sachs · Forage",
+        "category": "Finance",
+        "date": "02/2026",
+        "url": "https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/wNge9cjzNTXD2acrv_MBA4MnZTNFEoJZGnk_69846cbe8846afd539aaa94d_1770818482363_completion_certificate.pdf",
+        "desc": "Analysis of financial data on settlement issues and asset transfers for high-net-worth clients, coordinated with Trading, Compliance and IT.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Operations Job Simulation verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Controllers Job Simulation",
+        "issuer": "Goldman Sachs · Forage",
+        "category": "Finance",
+        "date": "02/2026",
+        "url": "https://www.theforage.com/completion-certificates/MBA4MnZTNFEoJZGnk/vjFao7z4tXKe2EwvK_MBA4MnZTNFEoJZGnk_69846cbe8846afd539aaa94d_1770622865998_completion_certificate.pdf",
+        "desc": "Calculating net asset value (NAV) and unitizing, Excel-based analysis, data validation and reconciliation of financial reporting.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Controllers Job Simulation verify on Credly (opens in a new tab)"
+      },
+      {
+        "title": "Europe101 Leadership Program",
+        "issuer": "Common Purpose",
+        "category": "Leadership",
+        "date": "10/2023",
+        "url": null,
+        "desc": "Intercultural leadership skills, social responsibility, cross-border teamwork.",
+        "linkLabel": "Verify ↗",
+        "linkAria": "Europe101 Leadership Program verify on Credly (opens in a new tab)"
+      }
+    ],
+    "faq": [
+      {
+        "q": "Who is Jason Thomas Wolf?",
+        "a": "Jason Thomas Wolf is a working student in the IT Touchpoint team at Deutsche Börse Group in Frankfurt am Main and has been studying Computer Science (B.Sc.) at TU Darmstadt since the winter term 2026/27. Before that, he worked at PCDOKTOR.de from March 2023 to October 2026, most recently as a Level 3 IT Support Engineer."
+      },
+      {
+        "q": "What does Jason Wolf do at Deutsche Börse Group?",
+        "a": "As a working student in IT Touchpoint, he is part of the team that serves as the personal point of contact for Deutsche Börse Group employees on everything related to their digital workplace. He contributes to a user-centric IT service, supports the lifecycle management of laptops and smartphones within a group-wide standardized, security-compliant device management framework, and helps plan and execute hardware rollouts."
+      },
+      {
+        "q": "What professional experience does Jason Wolf have?",
+        "a": "More than three and a half years of hands-on IT support. At PCDOKTOR.de he was the Level 3 escalation point for complex cases: data recovery, backup and restore concepts, Windows and Linux administration, and malware removal with system hardening. Before that, he worked in Level 1 support at PCDOKTOR.de and completed a system integration internship at Eickmann Computer."
+      },
+      {
+        "q": "What certificates does Jason Thomas Wolf hold?",
+        "a": "15 certificates, including the Cisco Junior Cybersecurity Analyst Career Path, Cyber Threat Management, Networking Basics and Computer Hardware Basics, as well as job simulations (Forage) from J.P. Morgan, Goldman Sachs, Commonwealth Bank and Datacom and the Europe101 Leadership Program from Common Purpose."
+      },
+      {
+        "q": "What technical skills does Jason Wolf have?",
+        "a": "User-centric IT service and device management, Linux and Windows administration, data recovery and backup concepts, automation with Python and Bash, PostgreSQL/SQL, network security based on ISO 27001 and NIST, and data analysis with Excel and Power BI."
+      },
+      {
+        "q": "How can I reach Jason Wolf?",
+        "a": "By email at jason@jasonwolf.de, by phone at +49 152 51530075, on LinkedIn (linkedin.com/in/jason--wolf) or GitHub (github.com/Jaywolfy)."
+      }
+    ],
+    "showCookieBanner": false,
+    "isDe": false,
+    "isEn": true,
+    "langBtnDe": "font-family: 'JetBrains Mono', monospace; font-size: 12px; cursor: pointer; padding: 6px 10px; border-radius: 2px; border: none; transition: all 0.2s; letter-spacing: 0.05em; background: transparent; color: #6b7488; font-weight: 500;",
+    "langBtnEn": "font-family: 'JetBrains Mono', monospace; font-size: 12px; cursor: pointer; padding: 6px 10px; border-radius: 2px; border: none; transition: all 0.2s; letter-spacing: 0.05em; background: #182337; color: #f6f4ef; font-weight: 600;",
+    "isDesktopNav": true,
+    "isMobileNav": false,
+    "mobileMenuVisible": false,
+    "menuOpen": false,
+    "menuIcon": "☰",
+    "showPhone": true,
+    "showProgress": true,
+    "showGrid": true
+  },
+  "personLd": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "ProfilePage",
+        "@id": "https://jasonwolf.de/#profilepage",
+        "url": "https://jasonwolf.de/",
+        "name": "Jason Thomas Wolf | IT Support & Cybersecurity, Frankfurt",
+        "inLanguage": "de-DE",
+        "dateModified": "2026-11-01",
+        "isPartOf": {
+          "@id": "https://jasonwolf.de/#website"
+        },
+        "mainEntity": {
+          "@id": "https://jasonwolf.de/#person"
+        },
+        "primaryImageOfPage": {
+          "@id": "https://jasonwolf.de/#portrait"
+        }
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://jasonwolf.de/#website",
+        "name": "Jason Thomas Wolf – IT, Cybersecurity & Finance",
+        "url": "https://jasonwolf.de/",
+        "description": "Persönliche Website von Jason Thomas Wolf, Werkstudent IT Touchpoint bei der Deutsche Börse Group und Informatikstudent an der TU Darmstadt.",
+        "inLanguage": [
+          "de-DE",
+          "en"
+        ],
+        "author": {
+          "@id": "https://jasonwolf.de/#person"
+        },
+        "publisher": {
+          "@id": "https://jasonwolf.de/#person"
+        }
+      },
+      {
+        "@type": "ImageObject",
+        "@id": "https://jasonwolf.de/#portrait",
+        "url": "https://jasonwolf.de/src/assets/images/jasonwolf.jpg",
+        "contentUrl": "https://jasonwolf.de/src/assets/images/jasonwolf.jpg",
+        "encodingFormat": "image/jpeg",
+        "width": 965,
+        "height": 1287,
+        "caption": "Portrait von Jason Thomas Wolf – IT Support & Cybersecurity, Frankfurt am Main"
+      },
+      {
+        "@type": "Person",
+        "@id": "https://jasonwolf.de/#person",
+        "name": "Jason Thomas Wolf",
+        "alternateName": "Jason Wolf",
+        "givenName": "Jason Thomas",
+        "familyName": "Wolf",
+        "url": "https://jasonwolf.de/",
+        "image": {
+          "@id": "https://jasonwolf.de/#portrait"
+        },
+        "description": "Werkstudent im IT-Touchpoint-Team der Deutsche Börse Group in Frankfurt am Main und seit dem Wintersemester 2026/27 Student der Informatik (B.Sc.) an der TU Darmstadt. Zuvor über dreieinhalb Jahre im IT-Support bei PCDOKTOR.de, zuletzt als Level-3-Support-Engineer. Schwerpunkte: nutzerzentrierter IT-Service, Device Lifecycle Management, Systemadministration, Datenrettung und Cybersecurity.",
+        "jobTitle": "Working Student – IT Touchpoint",
+        "hasOccupation": {
+          "@type": "Occupation",
+          "name": "Working Student – IT Touchpoint",
+          "occupationLocation": {
+            "@type": "City",
+            "name": "Frankfurt am Main"
+          },
+          "skills": "Nutzerzentrierter IT-Service, Digital Workplace, Device Lifecycle Management, Hardware-Rollouts, Systemadministration Windows/Linux, Datenrettung, Backup & Restore, Malware-Entfernung, Python- und Bash-Automatisierung, Netzwerksicherheit"
+        },
+        "worksFor": {
+          "@type": "Organization",
+          "name": "Deutsche Börse Group",
+          "url": "https://www.deutsche-boerse.com/",
+          "address": {
+            "@type": "PostalAddress",
+            "addressLocality": "Frankfurt am Main",
+            "addressCountry": "DE"
+          }
+        },
+        "alumniOf": [
+          {
+            "@type": "EducationalOrganization",
+            "name": "Hochtaunusschule Oberursel",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Oberursel",
+              "addressCountry": "DE"
+            }
+          },
+          {
+            "@type": "EducationalOrganization",
+            "name": "Brüder-Grimm-Schule Frankfurt am Main",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Frankfurt am Main",
+              "addressCountry": "DE"
+            }
+          },
+          {
+            "@type": "Organization",
+            "name": "PCDOKTOR.de",
+            "url": "https://pcdoktor.de",
+            "address": {
+              "@type": "PostalAddress",
+              "addressLocality": "Frankfurt am Main",
+              "addressCountry": "DE"
+            }
+          }
+        ],
+        "memberOf": {
+          "@type": "CollegeOrUniversity",
+          "name": "Technische Universität Darmstadt",
+          "url": "https://www.tu-darmstadt.de/"
+        },
+        "knowsAbout": [
+          "IT Support",
+          "Endpoint Management",
+          "Cybersecurity",
+          "Linux Administration",
+          "Windows Server",
+          "Python",
+          "Bash Scripting",
+          "PostgreSQL",
+          "SQL",
+          "Netzwerksicherheit",
+          "ISO 27001",
+          "NIST Framework",
+          "Datenrettung",
+          "Backup & Disaster Recovery",
+          "Financial Modeling",
+          "M&A Analysis",
+          "Risk Management",
+          "Vulnerability Assessment",
+          "Incident Response",
+          "Computer Science"
+        ],
+        "knowsLanguage": [
+          "de",
+          "en"
+        ],
+        "hasCredential": [
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Junior Cybersecurity Analyst Career Path",
+            "credentialCategory": "Certificate",
+            "url": "https://www.credly.com/badges/0d207013-cfb1-4f28-a942-a2a2ce61123f/public_url",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Cisco"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Cyber Threat Management",
+            "credentialCategory": "Certificate",
+            "url": "https://www.credly.com/badges/999f3d83-5d7a-46da-9d2d-9d3b77bb2f6e/public_url",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Cisco"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Networking Basics",
+            "credentialCategory": "Certificate",
+            "url": "https://www.credly.com/badges/4b9d51cf-beb8-4c09-bc58-6d5001defff6/public_url",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Cisco"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Introduction to Cybersecurity",
+            "credentialCategory": "Certificate",
+            "url": "https://www.credly.com/badges/32b1ae5c-c093-498d-ad78-ba08a6720f88/public_url",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Cisco"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Digital Safety and Security Awareness",
+            "credentialCategory": "Certificate",
+            "url": "https://www.credly.com/badges/1fc9bd92-88b8-4e8b-aba1-946cbb1163d8/public_url",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Cisco"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Computer Hardware Basics",
+            "credentialCategory": "Certificate",
+            "url": "https://www.credly.com/badges/17663e3f-5663-4c48-b5a9-5ab09c589aca/public_url",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Cisco"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Introduction to Greenhouse Gas Accounting for IT",
+            "credentialCategory": "Certificate",
+            "url": "https://www.credly.com/badges/1bdd7be6-e2a9-4201-bc65-9f0e426e7d61/public_url",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Cisco"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Engaging Stakeholders for Success",
+            "credentialCategory": "Certificate",
+            "url": "https://www.credly.com/badges/74554a18-f616-467c-8068-bd39eaefb453/public_url",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Cisco"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Investment Banking Job Simulation (Forage)",
+            "credentialCategory": "Certificate",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "J.P. Morgan"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Internal Audit Job Simulation (Forage)",
+            "credentialCategory": "Certificate",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Goldman Sachs"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Operations Job Simulation (Forage)",
+            "credentialCategory": "Certificate",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Goldman Sachs"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Controllers Job Simulation (Forage)",
+            "credentialCategory": "Certificate",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Goldman Sachs"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Introduction to Cybersecurity Job Simulation (Forage)",
+            "credentialCategory": "Certificate",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Commonwealth Bank"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Cyber Security Operations Job Simulation (Forage)",
+            "credentialCategory": "Certificate",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Datacom"
+            }
+          },
+          {
+            "@type": "EducationalOccupationalCredential",
+            "name": "Europe101 Leadership Program",
+            "credentialCategory": "Certificate",
+            "recognizedBy": {
+              "@type": "Organization",
+              "name": "Common Purpose"
+            }
+          }
+        ],
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Frankfurt am Main",
+          "addressRegion": "Hessen",
+          "addressCountry": "DE"
+        },
+        "sameAs": [
+          "https://github.com/Jaywolfy",
+          "https://www.linkedin.com/in/jason--wolf"
+        ],
+        "email": "mailto:jason@jasonwolf.de",
+        "telephone": "+4915251530075"
+      }
+    ]
+  }
+}

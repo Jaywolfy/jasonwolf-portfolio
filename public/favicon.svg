@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#182337"/>
+  <text x="32" y="39" text-anchor="middle" textLength="47" lengthAdjust="spacingAndGlyphs" font-family="'Source Serif 4', Georgia, 'Times New Roman', serif" font-size="24" font-weight="600" fill="#c2a05e">JTW</text>
+  <line x1="9" y1="48" x2="55" y2="48" stroke="#97742f" stroke-width="2"/>
+</svg>
