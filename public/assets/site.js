@@ -87,24 +87,28 @@
     teaser.hidden = false;
   }).catch(() => {});
 
-  // Cookie consent: Google Analytics loads only after "accept"
-  const KEY = 'jw-cookie-consent', banner = $('.cookie');
+  // Cookie consent with Google Consent Mode v2 (basic mode): before a choice everything is "denied" and the Google
+  // script is not loaded at all. "Accept" grants analytics only; advertising signals stay denied.
+  const KEY = 'jw-cookie-consent', banner = $('.cookie'), GA_ID = 'G-THRPTND065';
   const store = { get: () => { try { return localStorage.getItem(KEY); } catch (e) { return null; } }, set: v => { try { localStorage.setItem(KEY, v); } catch (e) {} } };
+  window.dataLayer = window.dataLayer || [];
+  window.gtag = function () { window.dataLayer.push(arguments); };
+  window.gtag('consent', 'default', { analytics_storage: 'denied', ad_storage: 'denied', ad_user_data: 'denied', ad_personalization: 'denied' });
   function loadAnalytics() {
+    window.gtag('consent', 'update', { analytics_storage: 'granted' });
     if (window.__gaLoaded) return;
     window.__gaLoaded = true;
-    const id = 'G-THRPTND065', s = document.createElement('script');
-    s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=' + id;
+    const s = document.createElement('script');
+    s.async = true; s.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
     document.head.appendChild(s);
-    window.dataLayer = window.dataLayer || [];
-    window.gtag = function () { window.dataLayer.push(arguments); };
     window.gtag('js', new Date());
-    window.gtag('config', id, { allow_google_signals: false, allow_ad_personalization_signals: false });
+    window.gtag('config', GA_ID, { allow_google_signals: false, allow_ad_personalization_signals: false });
   }
   const consent = store.get();
   if (consent === 'accepted') loadAnalytics(); else if (consent !== 'declined') banner.hidden = false;
   // Declining after an earlier "accept" removes the Analytics cookies and stops tracking on the next page load
   function dropAnalytics() {
+    window.gtag('consent', 'update', { analytics_storage: 'denied' });
     const names = document.cookie.split(';').map(c => c.split('=')[0].trim()).filter(n => n === '_ga' || n.startsWith('_ga_'));
     for (const n of names) for (const d of ['', '; domain=' + location.hostname, '; domain=.' + location.hostname]) document.cookie = n + '=; Max-Age=0; path=/' + d;
     if (window.__gaLoaded) location.reload();
